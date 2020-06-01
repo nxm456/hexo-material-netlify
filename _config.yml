@@ -11,17 +11,17 @@ menu:
   Facebook: https://www.facebook.com
 
 # Site
-#title: Hexo
-#subtitle:
-#description:
-#keywords:
-#author: Geza Kovacssss
-#language: 
-#  - en
-#  - zh-cn
-#  - es
+title: Hexo
+subtitle:
+description:
+keywords:
+author: Geza Kovacssss
+language: 
+  - en
+  - zh-cn
+  - es
 
-#timezone:
+timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
